@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sasha\\Downloads\\student\\vs\\\u041B\u04202.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF4F22-B81D-4E6F-9095-1E6980D73727}|\u041B\u04202.1\\\u041B\u04202.1.vcxproj|C:\\Users\\Sasha\\Downloads\\student\\vs\\\u041B\u04202.1\\\u041B\u04202.1\\\u041B\u04202.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64DF4F22-B81D-4E6F-9095-1E6980D73727}|\u041B\u04202.1\\\u041B\u04202.1.vcxproj|solutionrelative:\u041B\u04202.1\\\u041B\u04202.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041B\u04202.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Downloads\\student\\vs\\\u041B\u04202.1\\\u041B\u04202.1\\\u041B\u04202.1.cpp",
+              "RelativeDocumentMoniker": "\u041B\u04202.1\\\u041B\u04202.1.cpp",
+              "ToolTip": "C:\\Users\\Sasha\\Downloads\\student\\vs\\\u041B\u04202.1\\\u041B\u04202.1\\\u041B\u04202.1.cpp",
+              "RelativeToolTip": "\u041B\u04202.1\\\u041B\u04202.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-20T14:02:05.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
